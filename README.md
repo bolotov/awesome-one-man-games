@@ -13,17 +13,11 @@ Retro City Rampage
 
 Dust: an Elysian Tail
 
-Papers, Please
-
 Stardew Valley
 
 Meridian: New World
 
-Minecraft
-
 Axiom Verge
-
-Tetris
 
 Undertail
 
@@ -33,6 +27,13 @@ Braid
 
 Rollercaster Tycoon
 
+##Honorable Mentions:
+
+Papers, Please
+
+Tetris
+
+Minecraft
 
 Sources:
 
